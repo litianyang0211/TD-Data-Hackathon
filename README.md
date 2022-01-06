@@ -1,4 +1,4 @@
-# TD Rotman FinHub TDMDAL Hackathon
+# TD Data Hackathon
 
 ## Task
 In this project, we developed a ML process extracting information from the transcript of **earning calls** to predict stock price movement (**net return**) on the next trading day.
