@@ -17,3 +17,6 @@ Records of quaterly earning calls which are provided as paragraphs(.json) and da
 1. The number of negative words in **Q&A** part had quite **different** distribution than that in **manager discussion** part.
 2. Scaling raw predicted distribution effectively increased prediction accuracy.
 3. Random forest worked best among the three models. It has a **55% accuracy** in predicting stock price directions and a mean square error of **0.0016**(30% less than linear regression) in predicting returns.
+
+## Highlight
+Finalist Group (Top 5) with best prediction.
